@@ -15,3 +15,6 @@ https://fred.stlouisfed.org/series/MORTGAGE30US
 
 Pulled CSV's on Median List Prices, Median Sales Prices, Housing Inventory, and Days Pending:
 https://www.zillow.com/research/data/
+
+Used to understand and graph polynomial regression:
+https://www.w3schools.com/Python/python_ml_polynomial_regression.asp
