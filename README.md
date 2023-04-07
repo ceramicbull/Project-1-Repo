@@ -67,7 +67,7 @@ Next, the relationship between the average median sales price and home inventory
 
 ## Considerations
 
-
+![Test image](https://github.com/ceramicbull/Project-1-Repo/blob/main/images/cp_MortgageRatevsMedianPrice.png)
 
 
 link to project presentation:
